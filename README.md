@@ -21,6 +21,18 @@ When multiple AI agents communicate autonomously using hidden protocols or high-
 
 ---
 
+## 📸 Dashboard Preview
+
+| **Nominal / Safe Mode (Risk: 11%)** | **Critical Threat / Deceptive Alignment (Risk: 84%)** |
+|:---:|:---:|
+| ![Safe Mode](screenshots/screenshot1_safe_mode.png) | ![Critical Threat](screenshots/screenshot2_critical_threat.png) |
+
+| **Full Observatory & Synaptic Activity Radar** |
+|:---:|
+| ![Full Dashboard](screenshots/screenshot3_full_dashboard.png) |
+
+---
+
 ## 🚀 Key Features
 
 1. **⚡ 3D Neural Synaptic Canvas**:
