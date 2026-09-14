@@ -1,0 +1,1 @@
+print("MindTrace setup")
